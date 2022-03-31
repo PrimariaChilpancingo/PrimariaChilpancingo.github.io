@@ -14,8 +14,14 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Docentes:   
-  Directivos:
+  Docentes:
+    - Primer Grado:
+    - Segundo Grado:
+    - Tercer Grado:
+    - Cuarto Grado:
+    - Quinto Grado:
+    - Sexto Grado:
+  Directivos: 
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Horarios: "https://deanattali.com"
