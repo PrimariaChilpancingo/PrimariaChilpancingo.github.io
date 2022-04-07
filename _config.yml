@@ -14,12 +14,18 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Docentes:
+  Talleres:
+  - Pintura:
+  - Dibujo:
+  - Canto:
+  - Musica: 
    
-  Directivos: 
-    - Jefe de Docentes:
-    - Director:
-    - Subdirector: 
+  Docentes:
+    - Juan Perez
+    - Israel Martines
+    - Isabela Torres
+    - Carmen Gonzalez 
+  
    
   Horarios: 
     - Primer Grado:
