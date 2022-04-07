@@ -1,5 +1,5 @@
 ---
 layout: inicio
-title: My website
+title: Escuela Primaria Congreso de Chilpancingo
 subtitle: This is where I will tell my friends way too much about me
 ---
