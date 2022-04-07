@@ -14,15 +14,17 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-Boletas:
-
-
-
-Cursos Extra Escolares:
-
-
-
-
+  Boletas:
+  -
+  -
+  -
+  
+  Cursos Extra Escolares:
+  -
+  -
+  -
+  - 
+  
   Talleres:
   - Pintura:
   - Dibujo:
