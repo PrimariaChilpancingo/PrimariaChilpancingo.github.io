@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: FORMA PARTE DE NUESTROS TALLERES Y APRENDE UN NUEVO HABITO 
+subtitle: entre los diferentes talleres podras adquirir el conocimiento basico de lo que maste guste y hacerlo de mejor manera
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
