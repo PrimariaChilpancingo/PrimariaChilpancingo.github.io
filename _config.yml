@@ -15,7 +15,7 @@ author: Some Person
 
 navbar-links:
   Boletas:
-  -[1 grado]: (./1ergrado.md) 
+  -[1 grado](./1ergrado.md): 
   - 2 grado:
   - 3 grado:
   - 4 grado:
