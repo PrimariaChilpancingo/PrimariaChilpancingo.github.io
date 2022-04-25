@@ -15,15 +15,13 @@ author: Some Person
 
 navbar-links:
   Boletas:
-  -
-  -
-  -
-  
-  Cursos Extra Escolares:
-  -
-  -
-  -
-  - 
+  - 1 grado:
+  - 2 grado:
+  - 3 grado:
+  - 4 grado:
+  - 5 grado:
+  - 6 grado: 
+ 
   
   Talleres:
   - Pintura:
