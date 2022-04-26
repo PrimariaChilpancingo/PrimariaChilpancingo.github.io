@@ -10,3 +10,10 @@ comments: true
 El objetivo de estos talleres es fomentar a los alumnos encontrar lo que les apaciona y que tambien no se aburran de las clases ordinarias de siempre y haci sientan una especie de descanso pero aprendiendo algo. 
 
 **DESCUBRE TUS VERDADERAS PASIONES** 
+
+*INSCRIBIRME EN ALGUN TALLER*
+¿QUE TALLER TE INTERESA? 
+
+- [PINTURA](./PINTURA.MD) 
+- [DIBUJO](./DIBUJO.MD)
+- [MUSICA](./MUSICA,MD) 
