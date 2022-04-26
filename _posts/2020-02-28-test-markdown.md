@@ -10,6 +10,6 @@ El objetivo de estos talleres es fomentar a los alumnos encontrar lo que les apa
 *INSCRIBIRME EN ALGUN TALLER*
 ¿QUE TALLER TE INTERESA? 
 
-- [PINTURA](./PINTURA.md) 
-- [DIBUJO](./DIBUJO.md)
-- [MUSICA](./MUSICA.md) 
+- [PINTURA](./pintura.md) 
+- [DIBUJO](./dibujo.md)
+- [MUSICA](./musica.md)  
