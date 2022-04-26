@@ -23,7 +23,7 @@ El objetivo de estos talleres es fomentar a los alumnos encontrar lo que les apa
    <label for="name">Taller:</label><br>
   <input type="text" id="fn name" Taller="Taller" value="Taller que me interesa"><br>
    <label for="name">Por que te interesa este taller:</label><br>
-  <input type="text" id="fn name" Por que te interesa este taller="Por que te interesa este taller" value="motivo"><br>
+  <input type="text" id="fn name" Por que te interesa este taller="Por que te interesa este taller" value=""><br>
   <label for="name">Nombres:</label><br>
   <input type="text" id="fn name" name="name" value="tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
