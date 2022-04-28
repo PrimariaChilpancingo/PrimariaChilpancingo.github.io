@@ -14,37 +14,8 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Boletas:
-  - 1 grado:
-  - 2 grado:
-  - 3 grado:
-  - 4 grado:
-  - 5 grado:
-  - 6 grado: 
- 
   
-  Talleres:
-  - Pintura:
-  - Dibujo:
-  - Musica:
   
-   
-  Docentes:
-    - Juan Perez:
-    - Israel Martines:
-    - Isabela Torres:
-    - Carmen Gonzalez:  
-  
-   
-  Horarios: 
-    - Primer Grado:
-    - Segundo Grado:
-    - Tercer Grado:
-    - Cuarto Grado:
-    - Quinto Grado:
-    - Sexto Grado: 
-  
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
