@@ -45,3 +45,21 @@ SI TE INTERESA ALGUN TALLER PRECIONA LEER MAS, REGISTRATE Y SIGUE LAS INSTRUCCIO
    <input type="submit" value="Enviar">
 </form>  
 
+
+_______________________________________________________________________________________________________________________________________________________________________
+**Conoce aqui tu horario**
+
+*Para encontrarlo de manera mas rapida selecciona tu grado y grupo*
+
+[PRIMER AÑO]         <-----
+
+[SEGUNDO AÑO]        <-----
+
+[TERCER AÑO]         <-----
+
+[CUARTO AÑO]         <-----
+
+[QUINTO AÑO]         <-----
+
+[SEXTO AÑO]          <----- 
+
