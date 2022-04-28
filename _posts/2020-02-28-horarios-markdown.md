@@ -1,6 +1,8 @@
-**Conoce aqui tu horario**
-
-*Para encontrarlo de manera mas rapida selecciona tu grado y grupo*
+---
+layout: post
+title: CONOCE TU HORARIO AQUI 
+subtitle: Seleciona tu grupo 
+---
 
 [PRIMER AÑO](./primero.md)        <-----
 
