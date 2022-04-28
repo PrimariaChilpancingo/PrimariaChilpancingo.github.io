@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONOCE TU HORARIO AQUI 
-subtitle: Seleciona tu grupo 
+subtitle: Seleciona tu Grado
 ---
 
 [PRIMER AÑO](./primero.md)        <-----
